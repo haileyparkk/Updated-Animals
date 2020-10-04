@@ -1,1 +1,2 @@
-# Updated-Animals
+How to run and how to format your input:
+When you run “animals”, it will prompt you for an input, and it specifies the format the input must be in. It also gives you two examples to ensure that the user understands what format the list of animals must be in. The format is: “name color species birth month birth day birth year”, and if you would like to have multiple animals, you must separate them with a comma. Please ensure that there is no space before or after the comma. Again, there is an example of a list of animals in case the user doesn’t understand! Thank you!
